@@ -1,0 +1,19 @@
+.total-amount {
+    width: 105px;
+    height: 40px;
+    background: darkslateblue;
+    border-radius: 5px;
+    text-align: right;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+span.total{
+    margin-right: 5px;
+}
+
+hr {
+    border-width: 3px;
+    border-color: dimgray;
+}
